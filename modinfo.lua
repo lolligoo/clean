@@ -87,8 +87,10 @@ AddPrefab("iseventclean", "是否清理活动物品(冬季盛宴等等)", true)
 AddCount("eventcleancount", "活动物品保留数量", 0)
 AddPrefab("stump", "是否清理木桩", true)
 AddCount("stumpcount", "木桩保留数量", 0)
-AddPrefab("monkey", "", true)
-AddCount("monkeycount", "", 0)
+AddPrefab("monkey", "是否清理暴躁猴", true)
+AddCount("monkeycount", "暴躁猴保留数量", 0)
+AddPrefab("backpack", "是否清理背包", true)
+AddCount("backpackcount", "背包保留数量", 0)
 
 
 
