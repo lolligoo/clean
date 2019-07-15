@@ -1,5 +1,6 @@
 monkey,暴躁猴
 backpack,背包
+goose_feather,鹅毛
 cutreeds,采下的芦苇
 cutgrass,草
 armorgrass,草甲
@@ -62,7 +63,6 @@ feather_robin_winter,雪雀羽毛
 lavae_egg,岩浆虫卵
 winter_food4,永远的水果蛋糕
 merm,鱼人
-goose_feather,羽毛
 spider,蜘蛛
 spiderhat,蜘蛛帽
 spiderqueen,蜘蛛女王
