@@ -69,7 +69,9 @@ end
 
 --公告
 local function Clean(inst)
-    TheNet:Announce("40秒后清理服务器，不想被清理的东西赶紧捡起来！")
+    if TheWorld.ismastersim then
+        TheNet:Announce("40秒后清理服务器，不想被清理的东西赶紧捡起来！")
+    end
     inst:DoTaskInTime(40, CleanPrefab)
 end
     
